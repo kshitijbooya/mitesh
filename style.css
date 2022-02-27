@@ -1,0 +1,30 @@
+h2{
+    text-shadow:2px 2px #00ffea;
+    font-size:30px;
+    text-align:center;
+  }
+  
+  body{
+    text-align:center;
+  }
+  
+  img{
+    border-radius:60%;
+    max-width:100%;
+  
+  }
+  
+  p{
+  
+    font-size:30px;
+    text-align:center;
+  }
+  
+#welcome{
+  position: absolute;
+  height: 800px;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: linear-gradient( #1219e0 0%, #db1414 100%);
+}
